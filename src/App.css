@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    margin-left: 40px;
+}
+.first{
+    margin-top: 30px;
+}
+.bg-primary{
+    border-radius: 5px;
+    margin: 10px;
+}
+p{
+    color:white;
+}
+hr{
+    position: relative;
+    top: -30px;
+    color: lightcyan;
+}
+#change{
+    border-radius: 5px;
+    height: 40px;
+    position: relative;
+    left: 40px;
+    top: 40px;
+}
+#change1{
+    position: relative;
+    height: 40px;
+    left: 60px;
+    top: 40px;
+}
+h2{
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+}
+.para{
+    margin: 40px 10px 10px 10px;
+}
+.para1{
+    margin: 10px 10px 10px 10px;
+}
+ul li{
+    color: white;
+}
